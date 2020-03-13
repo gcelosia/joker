@@ -1,5 +1,5 @@
 # Joker
-A Wireshark dissector for BLE advertisement packets of Apple Continuity, Microsoft CDP and Garmin proprietary protocols.
+A Wireshark dissector for Bluetooth Low Energy (BLE) advertisement packets of Apple Continuity, Microsoft CDP and Garmin proprietary protocols.
 
 ## Prerequisite
 Make sure the version of Wireshark you have installed was compiled with Lua support (see https://wiki.wireshark.org/Lua).
