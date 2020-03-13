@@ -1,10 +1,10 @@
 # Joker
 A Wireshark dissector for BLE advertisement packets of Apple Continuity, Microsoft CDP and Garmin proprietary protocols.
 
-# Prerequisite
+## Prerequisite
 Make sure the version of Wireshark you have installed was compiled with Lua support (see https://wiki.wireshark.org/Lua).
 
-# Install
+## Install
 1. If Wireshark is running, stop Wireshark
 2. mkdir -p ~/.config/wireshark/plugins
 3. cp joker.lua ~/.config/wireshark/plugins/
